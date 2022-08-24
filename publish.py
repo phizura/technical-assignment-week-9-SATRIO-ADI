@@ -1,4 +1,4 @@
-import turtle
+
 import paho.mqtt.client as paho
 from paho import mqtt
 from time import sleep
